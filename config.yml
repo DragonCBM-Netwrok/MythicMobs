@@ -2,7 +2,7 @@
 # CONFIGURATION INFORMATION AVAILABLE AT: http://xikage.elseland.net/mythicmobs/
 
 Configuration:
-  Version: 2.4
+  Version: 2.5
   General:
     AllowMetrics: true
     CheckForUpdates: true
