@@ -4,10 +4,10 @@ Ra:
   BossBar:
     Enabled: true
     Title: 'Ra'
-    Range: 20
+    Range: 10
     Color: WHITE
     Style: SOLID
-    Health: 700
+    Health: 7000
   Damage: 45
   Skills:
   - message{cooldown=20;m="<mob.name><&co> The sun fills me with power!!"} @PlayersInRadius{r=40} ~onCombat >0 0.2
@@ -35,10 +35,10 @@ Horus:
   BossBar:
     Enabled: true
     Title: 'Horus'
-    Range: 20
+    Range: 15
     Color: WHITE
     Style: SOLID
-    Health: 700
+    Health: 7000
   Damage: 45
   Skills:
   - message{cooldown=20;m="<mob.name><&co> When I'm done with you, you'll know who the strongest god is!"} @PlayersInRadius{r=40} ~onCombat >0 0.2
@@ -54,7 +54,7 @@ Horus:
   - BoneClothChestplate:3
   Drops:
   - HorusDrops
-  - exp 1000
+  - exp 1500
   - AdminRock4
   Options:
     AlwaysShowName: true
@@ -67,11 +67,11 @@ Anubis:
   BossBar:
     Enabled: true
     Title: 'Anubis'
-    Range: 20
+    Range: 45
     Color: WHITE
     Style: SOLID
-  Health: 650
-  Damage: 50
+  Health: 6500
+  Damage: 85
   Skills:
   - message{cooldown=20;m="<mob.name><&co> ...!"} @PlayersInRadius{r=40} ~onCombat >0 0.2
   - message{m="<mob.name><&co><trigger.name>, Your soul has been weighed!"} @PlayersInRadius{r=40} ~onPlayerKill >0 1
@@ -85,7 +85,7 @@ Anubis:
   - DeathCowl:4
   Drops:
   - AnubisDrops
-  - exp 10000
+  - exp 100000
   - AdminRock2
   Options:
     AlwaysShowName: true
