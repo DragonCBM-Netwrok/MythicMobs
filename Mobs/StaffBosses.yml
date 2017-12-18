@@ -7,7 +7,7 @@ AM:
     Range: 20
     Color: WHITE
     Style: SOLID
-    Health: 700
+    Health: 5700
   Damage: 45
   Skills:
   Equipment:
@@ -26,7 +26,7 @@ UP:
     Range: 20
     Color: WHITE
     Style: SOLID
-    Health: 700
+    Health: 5700
   Damage: 45
   Skills:
   Equipment:
@@ -45,7 +45,7 @@ ESTC:
     Range: 20
     Color: WHITE
     Style: SOLID
-  Health: 650
+  Health: 5650
   Damage: 50
   Skills:
   Equipment:
