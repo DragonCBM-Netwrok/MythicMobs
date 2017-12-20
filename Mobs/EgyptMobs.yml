@@ -15,18 +15,6 @@ Ra:
   - skill{s=SummonZombies} @Self 0.1
   - command{c="time set day"} ~onTimer:75  
   - skill{s=SummonZombies} @Target
-  Disguise:
-    Type: player
-    Skin: 'FireFox2456'
-    Player: Steve
-    Burning: false
-    Blocking: false
-    Invisible: false
-    ShowName: True
-    Sneaking: false
-    Sprinting: false
-    ModifyBoundingBox: false
-    Glowing: true
   Equipment:
   - SealedFeet:1
   - Uas:0
@@ -58,18 +46,6 @@ Horus:
   - skill{s=SummonZombies} @Self 0.1
   - skill{s=SummonZombies} @Target
   - skill{s=HorusPush} @Target
-  Disguise:
-    Type: player
-    Skin: 'Shadow3745'
-    Player: Steve
-    Burning: false
-    Blocking: false
-    Invisible: false
-    ShowName: True
-    Sneaking: false
-    Sprinting: false
-    ModifyBoundingBox: false
-    Glowing: true
   Equipment:
   - SealedFeet:1
   - SkyBreaker:0
@@ -102,18 +78,6 @@ Anubis:
   - skill{s=SummonZombies} @Self 0.1
   - skill{s=SummonZombies} @Target 0.2
   - skill{s=AnubisMummify} @Target 0.2
-  Disguise:
-    Type: player
-    Skin: 'Fishy2745'
-    Player: Steve
-    Burning: false
-    Blocking: false
-    Invisible: false
-    ShowName: True
-    Sneaking: false
-    Sprinting: false
-    ModifyBoundingBox: false
-    Glowing: true
   Equipment:
   - SealedFeet:1
   - BoneClothChestplate:3
