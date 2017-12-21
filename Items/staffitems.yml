@@ -1,0 +1,15 @@
+FireSword:
+  Id: 276
+  Display: '&C&l    FireSword'
+  Lore:
+  - '&cLegend has it FireFox used this'
+  - '&cvery sword to cut the souls out'
+  - '&cof those who he weighed...'
+  Enchantments:
+  - DAMAGE_ALL:23
+  - FIRE_ASPECT: 35
+  Attributes:
+    MainHand:
+      AttackSpeed: 0.0
+      Damage: 23.0
+      Health: 20.0
