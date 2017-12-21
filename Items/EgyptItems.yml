@@ -134,5 +134,5 @@ StoneWindPants:
     Legs:
       MovementSpeed: 1.4
       Health: 4.0
-      Armor: 6.0
-      ArmorToughness: 3.0
+      Armor: 10.0
+      ArmorToughness: 25.0
